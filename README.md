@@ -117,8 +117,7 @@ This should return a successful result.
 <p>
 Next, try connecting via RDP. Open Remote Desktop and enter the socket for your computer:
 
-<code>PUBLIC_IP:3890</code>
-
+<YOURPUBLICIP>:3390
 Click Connect. You will need valid credentials for the target machine. Even receiving a credential prompt confirms the setup is working.
 </p>
 
